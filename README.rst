@@ -1,7 +1,9 @@
-attowiki
+watom
 ========
 
-attowiki is a very small wiki engine for personal use.
+watom is fork of attowiki that is a very small wiki engine for personal use.
+
+**Sorry, but this README doesn't correspond with watom changes and will be updated later.**
 
 Its main features are:
 
